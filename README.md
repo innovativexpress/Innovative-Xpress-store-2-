@@ -1,4 +1,4 @@
-# 🚀 **Innovative Xpress** 🚀  
+#  **Innovative Xpress**   
 ### **Tech. Gaming. Innovation.**  
 
 Welcome to **Innovative Xpress** – where we **don’t follow trends, we create them.**  
