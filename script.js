@@ -1,4 +1,6 @@
 // Smooth scrolling effect
+<body> 
+<html> 
 document.querySelectorAll('nav a').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
@@ -23,6 +25,9 @@ document.addEventListener("scroll", function() {
         if (position < screenHeight) {
             section.style.opacity = 1;
             section.style.transform = "translateY(0)";
-        }
+            <script src="script.js"></script>
+</body>
+</html>
+}
     });
 });
