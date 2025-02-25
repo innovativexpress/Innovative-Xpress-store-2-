@@ -1,7 +1,4 @@
 /* General Styles */
-<script src="script.js"></script>
-</body>
-</html>
 body {
     background-color: black;
     color: white;
@@ -87,4 +84,8 @@ footer {
 footer p {
     font-size: 1em;
     opacity: 0.7;
+    <script src="script.js"></script>
+</body>
+</html>
+
 }
